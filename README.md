@@ -1,5 +1,5 @@
 
-# Benue State Integrated Document Management System.
+# Federal Civil Service Integrated Document Management System.
 
 <-- Brief intro about the project here -->
 
